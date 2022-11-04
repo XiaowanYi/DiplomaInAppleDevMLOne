@@ -1,4 +1,4 @@
-# ML One, lecture 1, 3rd Nov 2022
+# ML One, lecture 01, 3rd Nov 2022
 introduction to artificial intelligence, representation, numbers and face recognition
 
 and build a face detector app
