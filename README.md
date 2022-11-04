@@ -1,5 +1,6 @@
-# Diploma In Apple Development ML One, lecture 1: face detector app
-lecture contents (slides and apps) for unit ML One in Diploma In Apple Development 
+# ML One, lecture 1, 3rd Nov 2022
+introduction to artificial intelligence, representation, numbers and face recognition
+and build a face detector app
 
 ## one file
   lec1-slides is the prepared lecture slides
